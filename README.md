@@ -31,3 +31,10 @@ Saya sudah memiliki beberapa sertifikat kompetensi sebagai berikut:
 Saat ini saya sedang memulai karir saya dengan Bangkit 2022 dan sedang berlatih untuk memiliki gelar Google Associate Android Developer.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yendrapriambada/) ku ya.
+
+<p align="left">
+<a href="https://github.com/yendrapriambada">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yendrapriambada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yendrapriambada&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
